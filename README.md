@@ -1,6 +1,6 @@
-# The App takes in some input from user and generates a phyton plotly code that is presented in the page 
+# Diagram based on a chatbot input
 
-The user enters some text into the chatbox and then some logic (outside of the scope of this project) generates Plotly Python diagram that is then presented on the right. 
+The user enters some text into the chatbox and then some logic (outside of the scope of this project) generates a Plotly Python diagram that is then presented on the right. 
 
 ![image](https://github.com/fridrikfridriksson/CHATBOT/assets/45239354/33b28de7-00e2-4cf2-b90b-da6c5a7b0cd6)
 
