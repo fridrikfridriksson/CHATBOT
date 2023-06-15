@@ -1,3 +1,12 @@
+# The App takes in some input from user and generates a phyton plotly code that is presented in the page 
+
+The user enters some text into the chatbox and then some logic (outside of the scope of this project) generates Plotly Python diagram that is then presented on the right. 
+
+![image](https://github.com/fridrikfridriksson/CHATBOT/assets/45239354/33b28de7-00e2-4cf2-b90b-da6c5a7b0cd6)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
